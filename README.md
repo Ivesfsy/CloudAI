@@ -44,4 +44,4 @@
 
 - [Search-GPT视频](https://aicloud.mygptmeta.com/wp-content/uploads/2024/11/Search-GPT.mp4)
 
-- [Claude官方演示视频1](https://aicloud.mygptmeta.com/wp-content/uploads/2024/07/Claude%E5%AE%98%E6%96%B9%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%911.mp4)
+- [Claude官方演示视频](https://aicloud.mygptmeta.com/wp-content/uploads/2024/07/Claude%E5%AE%98%E6%96%B9%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%911.mp4)
