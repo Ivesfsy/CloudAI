@@ -1,19 +1,15 @@
 # AI云原生-CloudAI
 
-免梯子使用官方原版
-
-[【AI云原生】](https://aicloud.mygptmeta.com)
+免梯子使用官方原版：[【AI云原生】](https://aicloud.mygptmeta.com)
 
 * 1:1还原ChatGPT、Claude和Grok体验
 * 多模型同时使用，一站式AI助手
 * 账号独立隔离，保障数据安全与隐私
 * 买多久用多久，无隐藏费用
 
-## 欢迎来到AI云原生
+![image](https://github.com/user-attachments/assets/dc82bcd7-b2ba-42d7-b4ac-e0ed5ae8ddf9)
+![image](https://github.com/user-attachments/assets/b5651f1b-9b00-4fcf-b45b-aae2167f8938)
 
-### 1：1还原ChatGPT和Claude AI
-
-在这个开放与分享的时代，OpenAI和Anthropic引领了人工智能的革命，现在，我们向全球宣布：我们的产品无需🪜，账号独立，对话数据隔离、GPTS隔离，保障隐私安全，买多久用多久！
 
 #### 二维码
 
